@@ -1,0 +1,404 @@
+<arboretum>
+	<planetes>
+		<planete>
+			<nom>Soleil</nom>
+			<description>Le Soleil (Sol en latin, Helios ou Ἥλιος en grec) est l’étoile du Système solaire. Dans la classification astronomique, c’est une étoile de type naine jaune, composée d’hydrogène (74 % de la masse ou 92,1 % du volume) et d’hélium (24 % de la masse ou 7,8 % du volume). Autour de lui gravitent la Terre, et sept autres planètes, au moins cinq planètes naines, de très nombreux astéroïdes et comètes et une bande de poussière. Le Soleil représente à lui seul 99,86 % de la masse du Système solaire ainsi constitué, Jupiter représentant plus des deux tiers de tout le reste.</description>
+			<demiGrandAxe>149 597 870 km</demiGrandAxe>
+			<rayonEquatorial>696 342 km</rayonEquatorial>
+			<masse>1,9891×1030 kg</masse>
+			<masseVolumique>1 408 kg/m3</masseVolumique>
+			<GraviteDeSurface>273,95 m/s2</GraviteDeSurface>
+			<image>Soleil.jpg</image>
+			<coordonnees>
+				<longitude>5°46'37.88'E</longitude>
+				<latitude>45°11'39.65'</latitude>
+				<decimalLongitude>5.777189</decimalLongitude>
+				<decimalLatitude>45.194347</decimalLatitude>
+				<heading>171</heading>
+				<bearing>214</bearing>
+				<orientation>S</orientation>
+			</coordonnees>
+		</planete>
+		<planete>
+			<nom>Terre</nom>
+			<description>La Terre est la troisième planète du Système solaire par ordre de distance croissante au Soleil, et la quatrième par taille et par masse croissantes. Il s'agit de la plus grande et la plus massive des quatre planètes telluriques, les trois autres étant Mercure, Vénus et Mars. La Terre se trouve dans la zone habitable du Système solaire. Elle est couramment appelée en français Terre, planète Terre, planète bleue ou encore Monde.</description>
+			<demiGrandAxe>149 597 887,5 km</demiGrandAxe>
+			<rayonEquatorial>6 378,137 km</rayonEquatorial>
+			<masse>5,9736×1024 kg</masse>
+			<masseVolumique>5,515×103 kg/m3</masseVolumique>
+			<GraviteDeSurface>9,80665 m/s2</GraviteDeSurface>
+			<image>Terre.jpg</image>
+			<coordonnees>
+				<longitude>5°46'39.09'E</longitude>
+				<latitude>45°11'39.42'</latitude>
+				<decimalLongitude>5.777525</decimalLongitude>
+				<decimalLatitude>45.194283</decimalLatitude>
+				<heading>207</heading>
+				<bearing>214</bearing>
+				<orientation>SSW</orientation>
+			</coordonnees>
+		</planete>
+	</planetes>
+	<arbres>
+		<arbre>
+			<nom>Charme</nom>
+			<description>Les charmes constituent un genre d'arbres et d'arbustes de la famille des Bétulacées (sous-famille des Coryloïdées) des régions tempérées de l'hémisphère nord, d'Asie mineure et d'Europe. Ce genre (Carpinus) compte une trentaine d'espèces. Une forêt constituée principalement de charmes est appelée une charmaie ou une charmeraie.</description>
+			<famille>Betulaceae</famille>
+			<image>Charme.jpg</image>
+			<coordonnees>
+				<longitude>5°46'40.15'E</longitude>
+				<latitude>45°11'39.36'</latitude>
+				<decimalLongitude>5.777819</decimalLongitude>
+				<decimalLatitude>45.194267</decimalLatitude>
+				<heading>238</heading>
+				<bearing>242</bearing>
+				<orientation>WSW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Sequoia</nom>
+			<description>Séquoia est un terme ambigu qui désigne deux espèces de conifères appartenant à deux genres différents, le séquoia toujours vert ou séquoia à feuilles d'if, Sequoia sempervirens (Lamb. ex D. Don) Endl. et le séquoia géant (Sequoiadendron giganteum). Toutefois ces deux espèces appartiennent toutes deux à l'ancienne famille des Taxodiacées (englobée aujourd'hui dans les Cupressacées). Originaires de Californie, ces arbres atteignent des dimensions remarquables.</description>
+			<famille>Taxodiaceae</famille>
+			<image>Sequoia.jpg</image>
+			<coordonnees>
+				<longitude>5°46'40.96'E</longitude>
+				<latitude>45°11'40.04'</latitude>
+				<decimalLongitude>5.778044</decimalLongitude>
+				<decimalLatitude>45.194456</decimalLatitude>
+				<heading>280</heading>
+				<bearing>242</bearing>
+				<orientation>WNW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Erable peau serpent / Pin de Corse</nom>
+			<description>Les érables sont des arbres et des arbustes du genre Acer appartenant désormais à la famille des Sapindacées (et autrefois à celle des Acéracées), dans l'ordre des Sapindales.</description>
+			<famille>Aceraceae</famille>
+			<image>Erable_peau_serpent.jpg</image>
+			<coordonnees>
+				<longitude>5°46'43.77'E</longitude>
+				<latitude>45°11'39.86'</latitude>
+				<decimalLongitude>5.778825</decimalLongitude>
+				<decimalLatitude>45.194406</decimalLatitude>
+				<heading>266</heading>
+				<bearing>242</bearing>
+				<orientation>W</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Hêtre Fau Fayard</nom>
+			<description>Le Hêtre commun (Fagus sylvatica), couramment désigné simplement comme le Hêtre et parfois appelé fayard est une espèce d'arbre à feuilles caduques, indigène d'Europe, appartenant à la famille des Fagaceae, tout comme le chêne et le châtaignier.</description>
+			<famille>Fagaceae</famille>
+			<image>Hetre_Fau_Fayard.jpg</image>
+			<coordonnees>
+				<longitude>5°46'44.91'E</longitude>
+				<latitude>45°11'40.0'</latitude>
+				<decimalLongitude>5.779142</decimalLongitude>
+				<decimalLatitude>45.194444</decimalLatitude>
+				<heading>287</heading>
+				<bearing>242</bearing>
+				<orientation>WNW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Platane d'Orient</nom>
+			<description>Le platane d'Orient est une espèce d'arbre de la famille des Platanacées utilisée comme arbre d'ornement. Cette espèce anciennement introduite en Europe occidentale a été supplantée par le platane commun.</description>
+			<famille>Platanaceae</famille>
+			<image>Platane_Orient.jpg</image>
+			<coordonnees>
+				<longitude>5°46'45.22'E</longitude>
+				<latitude>45°11'40.05'</latitude>
+				<decimalLongitude>5.779228</decimalLongitude>
+				<decimalLatitude>45.194458</decimalLatitude>
+				<heading>240</heading>
+				<bearing>242</bearing>
+				<orientation>WSW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Rosier chataigné</nom>
+			<description>Les rosiers, ou églantiers, forment un genre de plantes, le genre Rosa de la famille des Rosaceae, originaires des régions tempérées et subtropicales de l'hémisphère nord. Ce sont des arbustes et arbrisseaux sarmenteux et épineux. Suivant les avis souvent divers des botanistes, le genre Rosa comprend de 100 à 200 espèces qui s'hybrident facilement entre elles.</description>
+			<famille>Rosaceae</famille>
+			<image>Rosier_chataigne.jpg</image>
+			<coordonnees>
+				<longitude>5°46'45.21'E</longitude>
+				<latitude>45°11'38.26'</latitude>
+				<decimalLongitude>5.779225</decimalLongitude>
+				<decimalLatitude>45.193961</decimalLatitude>
+				<heading>240</heading>
+				<bearing>242</bearing>
+				<orientation>WSW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Peuplier noir</nom>
+			<description>Le Peuplier noir est un grand arbre pouvant atteindre 30 à 35 m de hauteur et dont la longévité est importante (200 ans, voire jusqu'à environ 400 ans pour les spécimens les plus âgés. Les formes varient beaucoup selon le contexte, en particulier selon que l'arbre ait poussé seul et isolé ou dans une haie, un boisement (troncs plus longs et droits) ou une ripisylve (dans ces derniers cas, il est plus élancé, avec des branches plus longues cherchant la lumière).</description>
+			<famille>Salicaceae</famille>
+			<image>Peuplier_noir.jpg</image>
+			<coordonnees>
+				<longitude>5°46'45.35'E</longitude>
+				<latitude>45°11'38.16'</latitude>
+				<decimalLongitude>5.779264</decimalLongitude>
+				<decimalLatitude>45.193933</decimalLatitude>
+				<heading>248</heading>
+				<bearing>242</bearing>
+				<orientation>WSW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Mahonia de Beal</nom>
+			<description>Mahonia est un genre de plantes appartenant à la famille des Berberidaceae. Le genre doit son nom au botaniste américain d'origine irlandaise, Bernard McMahon (1775–1816). Le genre Mahonia comprend environ 70 espèces d’arbustes à feuilles persistantes, originaire d’Asie orientale, de l’Himalaya, de l’Amérique du Nord et d’Amérique centrale. Il est étroitement relié au genre Berberis. Certains botanistes, comme ceux du site Flora of North America, mettent les plantes de ce genre sous le genre Berberis, en raison des possibilités d’hybridation entre de nombreuses espèces de ces deux genres (nothogenus X mahoberberis).</description>
+			<famille>Berberidaceae</famille>
+			<image>Mahonia_de_Beal.jpg</image>
+			<coordonnees>
+				<longitude>5°46'45.38'E</longitude>
+				<latitude>45°11'37.51'</latitude>
+				<decimalLongitude>5.779272</decimalLongitude>
+				<decimalLatitude>45.193753</decimalLatitude>
+				<heading>221</heading>
+				<bearing>242</bearing>
+				<orientation>SW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Forsythia blanc</nom>
+			<description>Le genre Forsythia - il s'agit à l'origine d'un nom latin botanique, prononcé en français [fɔrsisja] - représente des arbustes rustiques de l'ancien ordre des Ligustrales et de son ancienne unique famille des Oleaceae, reconnus en général par leur abondante floraison ornementale jaune d'or, qui se produit parmi les premières de l'année en fin d'hiver et début de printemps de l'hémisphère nord. Le genre compte une dizaine d'espèces, essentiellement d'Asie orientale tempérée (Chine orientale, Corée, Japon). Une espèce sans usage horticole est originaire d'Albanie.</description>
+			<famille>Oleaceae</famille>
+			<image>Forsythia_blanc.jpg</image>
+			<coordonnees>
+				<longitude>5°46'45.32'E</longitude>
+				<latitude>45°11'37.08'</latitude>
+				<decimalLongitude>5.779256</decimalLongitude>
+				<decimalLatitude>45.193633</decimalLatitude>
+				<heading>218</heading>
+				<bearing>242</bearing>
+				<orientation>SW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Noisetier Tortueux</nom>
+			<description>Le noisetier (Corylus L.), anciennement appelé coudrier, est un genre d'arbre et d'arbuste de la famille des Bétulacées (sous-famille des Coryloïdées) des régions tempérées de l'hémisphère nord. Son fruit s'appelle la noisette.</description>
+			<famille>Betulaceae</famille>
+			<image>Noisetier_Tortueux.jpg</image>
+			<coordonnees>
+				<longitude>5°46'45.13'E</longitude>
+				<latitude>45°11'36.32'</latitude>
+				<decimalLongitude>5.779203</decimalLongitude>
+				<decimalLatitude>45.193422</decimalLatitude>
+				<heading>248</heading>
+				<bearing>242</bearing>
+				<orientation>WSW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Bois de fer</nom>
+			<description>Sideroxylon (littéralement les « bois de fer ») est un genre botanique de la famille des Sapotaceae. Le genre Sideroxylon comprend une cinquantaine d’espèces en Amérique tropicale, et quelque 25 espèces dans l’Ancien monde dont 6 en Afrique continentale, environ 6 à Madagascar, 8 dans les îles Mascareignes, et 5 en Asie.</description>
+			<famille>Sapotaceae</famille>
+			<image>Bois_de_fer.jpg</image>
+			<coordonnees>
+				<longitude>5°46'45.0'E</longitude>
+				<latitude>45°11'35.68'</latitude>
+				<decimalLongitude>5.779167</decimalLongitude>
+				<decimalLatitude>45.193244</decimalLatitude>
+				<heading>190</heading>
+				<bearing>242</bearing>
+				<orientation>S</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Podocarpe des Andes</nom>
+			<description>Podocarpus est un genre d'arbres de la famille des Podocarpaceae (Conifères) composé d'une centaine d'espèces, originaires des régions tempérées et chaudes d'Extrême-Orient, d'Afrique, d'Amérique et d'Australasie.</description>
+			<famille>Podocarpaceae</famille>
+			<image>Podocarpe_des_Andes.jpg</image>
+			<coordonnees>
+				<longitude>5°46'46.01'E</longitude>
+				<latitude>45°11'35.52'</latitude>
+				<decimalLongitude>5.779447</decimalLongitude>
+				<decimalLatitude>45.1932</decimalLatitude>
+				<heading>195</heading>
+				<bearing>242</bearing>
+				<orientation>SSW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Hêtre Rouge</nom>
+			<description>Le Hêtre commun (Fagus sylvatica), couramment désigné simplement comme le Hêtre et parfois appelé fayard est une espèce d'arbre à feuilles caduques, indigène d'Europe, appartenant à la famille des Fagaceae, tout comme le chêne et le châtaignier.</description>
+			<famille>Fagaceae</famille>
+			<image>Hetre_Rouge.jpg</image>
+			<coordonnees>
+				<longitude>5°46'45.83'E</longitude>
+				<latitude>45°11'35.27'</latitude>
+				<decimalLongitude>5.779397</decimalLongitude>
+				<decimalLatitude>45.193131</decimalLatitude>
+				<heading>200</heading>
+				<bearing>242</bearing>
+				<orientation>SSW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Ginkgo</nom>
+			<description>Ginkgo est un genre de plante sans fleur de la famille des Ginkgoaceae. On considère classiquement que le genre Ginkgo est apparu au paléozoïque. En effet, on retrouve, à cette époque notamment, des fossiles très proches de l'espèce actuelle Ginkgo biloba. Il était alors composé de plusieurs espèces, mais il n'en subsiste plus qu'une (Ginkgo biloba). La notion actuelle d'espèce étant bien plus liée à la connaissance que l'on a de la génétique et de l'interfécondité des individus d'un groupe vivant que de la ressemblance mophologique au sein de ce groupe, il est prématuré de prétendre donner un âge à l'espèce actuelle Ginkgo biloba. On évoque souvent, comme pour le Cœlacanthe notamment, le terme de fossile vivant pour qualifier Ginkgo biloba. Cette appellation n'est aujourd'hui plus utilisée par les scientifiques, car elle donne l'idée que cette espèce n'a pas évolué depuis les premiers fossiles qui lui sont attribués. Il reste toutefois remarquable que la morphologie des Ginkgo (ou Protoginkgo) fossiles et de l'espèce actuelle soient très similaires.</description>
+			<famille>Ginkgoaceae</famille>
+			<image>Ginkgo.jpg</image>
+			<coordonnees>
+				<longitude>5°46'45.59'E</longitude>
+				<latitude>45°11'39.06'</latitude>
+				<decimalLongitude>5.779331</decimalLongitude>
+				<decimalLatitude>45.194183</decimalLatitude>
+				<heading>220</heading>
+				<bearing>240</bearing>
+				<orientation>SW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Petit Houx / Fragon Piquant</nom>
+			<description>Le fragon faux houx ou petit-houx (Ruscus aculeatus) est un arbuste dioïque de la famille des Asparagaceae (ou des Liliaceae, selon la classification classique) poussant dans l'aire méditerranéenne-atlantique.</description>
+			<famille>Liliaceae</famille>
+			<image>Fragon_Piquant.jpg</image>
+			<coordonnees>
+				<longitude>5°46'43.89'E</longitude>
+				<latitude>45°11'35.54'</latitude>
+				<decimalLongitude>5.778858</decimalLongitude>
+				<decimalLatitude>45.193206</decimalLatitude>
+				<heading>120</heading>
+				<bearing>242</bearing>
+				<orientation>ESE</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Saule Pleureur</nom>
+			<description>Le saule pleureur (Salix babylonica) est une espèce d'arbre de la famille des Salicaceae. Son port retombant est caractéristique et en fait une espèce très appréciée comme arbre d'ornement notamment au bord des pièces d'eau. Ses longues branches-lianes pendantes sont la cause de son appellation de "pleureur".</description>
+			<famille>Salicaceae</famille>
+			<image>Saule_Pleureur.jpg</image>
+			<coordonnees>
+				<longitude>5°46'43.62'E</longitude>
+				<latitude>45°11'37.7'</latitude>
+				<decimalLongitude>5.778783</decimalLongitude>
+				<decimalLatitude>45.193806</decimalLatitude>
+				<heading>240</heading>
+				<bearing>118</bearing>
+				<orientation>WSW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Arbre aux mouchoirs</nom>
+			<description>Davidia involucrata, aussi appelé arbre aux mouchoirs, à cause de ses larges bractées blanches, est un arbre de la famille des Nyssaceae originaire de Chine. La plante a été découverte en 1869 par le missionnaire botaniste français Jean-Pierre Armand David (1826-1900). Sa première introduction en France a été effectuée en 1897.</description>
+			<famille>Nyssaceae</famille>
+			<image>Arbre_aux_mouchoirs.jpg</image>
+			<coordonnees>
+				<longitude>5°46'43.43'E</longitude>
+				<latitude>45°11'35.57'</latitude>
+				<decimalLongitude>5.778731</decimalLongitude>
+				<decimalLatitude>45.193214</decimalLatitude>
+				<heading>175</heading>
+				<bearing>118</bearing>
+				<orientation>S</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Paulownia / Cyprès Chauve/Pivoine Arborescente</nom>
+			<description>Paulownia est un genre d'arbres originaire de Chine et de Corée.</description>
+			<famille>Scrophulariaceae</famille>
+			<image>Paulownia.jpg</image>
+			<coordonnees>
+				<longitude>5°46'42.86'E</longitude>
+				<latitude>45°11'35.44'</latitude>
+				<decimalLongitude>5.778572</decimalLongitude>
+				<decimalLatitude>45.193178</decimalLatitude>
+				<heading>230</heading>
+				<bearing>118</bearing>
+				<orientation>SW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Kolkwitzia</nom>
+			<description>Kolkwitzia amabilis est un arbuste de la famille des Caprifoliaceae selon la classification classique, ou des Linnaeaceae selon la classification phylogénétique. C'est la seule espèce acceptée à l'heure actuelle du genre Kolkwitzia.</description>
+			<famille>Caprifoliaceae</famille>
+			<image>Kolkwitzia.jpg</image>
+			<coordonnees>
+				<longitude>5°46'41.61'E</longitude>
+				<latitude>45°11'35.24'</latitude>
+				<decimalLongitude>5.778225</decimalLongitude>
+				<decimalLatitude>45.193122</decimalLatitude>
+				<heading>177</heading>
+				<bearing>118</bearing>
+				<orientation>S</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Yucca / Arbre de soie</nom>
+			<description>Yucca est un genre de 40-50 espèces de plantes vivaces arbustives remarquables par leurs rosettes de feuilles dures, en forme d'épée, et par les grappes de fleurs blanches ou tirant sur le blanc. Les yuccas se rencontrent dans les régions chaudes et sèches de l'Amérique du Nord, de l'Amérique centrale, et des Antilles. Ils sont utilisés comme plantes ornementales.</description>
+			<famille>Agavaceae</famille>
+			<image>Yucca.jpg</image>
+			<coordonnees>
+				<longitude>5°46'41.26'E</longitude>
+				<latitude>45°11'35.14'</latitude>
+				<decimalLongitude>5.778128</decimalLongitude>
+				<decimalLatitude>45.193094</decimalLatitude>
+				<heading>177</heading>
+				<bearing>118</bearing>
+				<orientation>S</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Lilas Blanc</nom>
+			<description>Le lilas commun ou lilas français (Syringa vulgaris) est un arbuste ornemental de la famille des Oleaceae à fleurs parfumées pouvant atteindre une hauteur de quatre mètres. Il existe des variétés à fleurs simples ainsi qu'à fleurs doubles et dont la gamme de coloris va du blanc au pourpre, en passant par le bleu violacé et le rose carmin.</description>
+			<famille>Oleaceae</famille>
+			<image>Lilas_Blanc.jpg</image>
+			<coordonnees>
+				<longitude>5°46'40.77'E</longitude>
+				<latitude>45°11'35.35'</latitude>
+				<decimalLongitude>5.777992</decimalLongitude>
+				<decimalLatitude>45.193153</decimalLatitude>
+				<heading>240</heading>
+				<bearing>118</bearing>
+				<orientation>WSW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Forsythia</nom>
+			<description>Le genre Forsythia - il s'agit à l'origine d'un nom latin botanique, prononcé en français [fɔrsisja] - représente des arbustes rustiques de l'ancien ordre des Ligustrales et de son ancienne unique famille des Oleaceae, reconnus en général par leur abondante floraison ornementale jaune d'or, qui se produit parmi les premières de l'année en fin d'hiver et début de printemps de l'hémisphère nord. Le genre compte une dizaine d'espèces, essentiellement d'Asie orientale tempérée (Chine orientale, Corée, Japon). Une espèce sans usage horticole est originaire d'Albanie.</description>
+			<famille>Oleaceae</famille>
+			<image>Forsythia.jpg</image>
+			<coordonnees>
+				<longitude>5°46'40.53'E</longitude>
+				<latitude>45°11'35.34'</latitude>
+				<decimalLongitude>5.777925</decimalLongitude>
+				<decimalLatitude>45.19315</decimalLatitude>
+				<heading>244</heading>
+				<bearing>240</bearing>
+				<orientation>WSW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Bananier des Indiens / Cyprès lawson / Olivier Bohème/ Lilas</nom>
+			<description>Le Cyprès de Lawson est un arbre du genre Chamaecyparis de la famille des Cupressaceae, originaire de l'ouest de l'Amérique du Nord, largement cultivé comme arbre ou arbuste d'ornement.</description>
+			<famille>Cupressaceae</famille>
+			<image>Cyprès_lawson.jpg</image>
+			<coordonnees>
+				<longitude>5°46'40.13'E</longitude>
+				<latitude>45°11'35.35'</latitude>
+				<decimalLongitude>5.777814</decimalLongitude>
+				<decimalLatitude>45.193153</decimalLatitude>
+				<heading>240</heading>
+				<bearing>240</bearing>
+				<orientation>WSW</orientation>
+			</coordonnees>
+		</arbre>
+		<arbre>
+			<nom>Seringat Lewis / Weigelia / Magnolia grande feuille</nom>
+			<description>Le genre Weigela ou weigelia regroupe une dizaine d'espèces d'arbustes originaires d'Extrême-Orient, de la famille des Caprifoliacées selon la classification classique, ou des Diervillacées selon la classification phylogénétique. Plusieurs sont cultivées comme plantes ornementales.</description>
+			<famille>Caprifoliaceae</famille>
+			<image>Weigelia.jpg</image>
+			<coordonnees>
+				<longitude>5°46'38.9'E</longitude>
+				<latitude>45°11'36.04'</latitude>
+				<decimalLongitude>5.776678</decimalLongitude>
+				<decimalLatitude>45.194139</decimalLatitude>
+				<heading>192</heading>
+				<bearing>240</bearing>
+				<orientation>SSW</orientation>
+			</coordonnees>
+		</arbre>
+	</arbres>
+</arboretum>

@@ -1,0 +1,195 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="5dp"
+    android:orientation="vertical"
+    tools:context=".Details" >
+
+    <TextView
+        android:id="@+id/nomPOI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold" 
+        android:textIsSelectable="true" />
+
+    <ImageView
+        android:id="@+id/imagePOI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nomPOI"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/labelDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/descriptionPOI"
+        android:layout_alignLeft="@+id/descriptionPOI"
+        android:text="Description"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textIsSelectable="true" />
+    
+    <EditText
+        android:id="@+id/descriptionPOI"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="102dp"
+        android:layout_toRightOf="@id/imagePOI"
+        android:layout_alignTop="@+id/imagePOI"
+        android:ems="10"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:inputType="textMultiLine" />
+
+    <TextView
+        android:id="@+id/titre_infos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_alignParentLeft="true"
+        android:text="Infos détaillées"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold"
+        android:layout_below="@id/imagePOI" />
+
+    <TextView
+        android:id="@+id/labelFamille"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/titre_infos"
+        android:layout_alignBaseline="@+id/famillePOI"
+        android:text="Famille"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textIsSelectable="true" />
+    
+    <EditText
+        android:id="@+id/famillePOI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/labelFamille"
+        android:layout_below="@id/titre_infos"
+        android:ems="10"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+    <TextView
+        android:id="@+id/labelAxe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/titre_infos"
+        android:layout_alignBaseline="@+id/axePOI"
+        android:text="Axe"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textIsSelectable="true" />
+    
+    <EditText
+        android:id="@+id/axePOI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/labelAxe"
+        android:layout_below="@id/titre_infos"
+        android:ems="10"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+    <TextView
+        android:id="@+id/labelRayon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/labelAxe"
+        android:layout_alignBaseline="@+id/rayonPOI"
+        android:text="Rayon"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textIsSelectable="true" />
+    
+    <EditText
+        android:id="@+id/rayonPOI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/axePOI"
+        android:layout_toRightOf="@+id/labelRayon"
+        android:ems="10"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+    <TextView
+        android:id="@+id/labelMasse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/labelRayon"
+        android:layout_alignBaseline="@+id/massePOI"
+        android:text="Masse"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textIsSelectable="true" />
+    
+    <EditText
+        android:id="@+id/massePOI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rayonPOI"
+        android:layout_toRightOf="@+id/labelMasse"
+        android:ems="10"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+    <TextView
+        android:id="@+id/labelMasseVol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/labelMasse"
+        android:layout_alignBaseline="@+id/masseVolPOI"
+        android:text="Masse Volumique"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textIsSelectable="true" />
+    
+    <EditText
+        android:id="@+id/masseVolPOI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/massePOI"
+        android:layout_toRightOf="@+id/labelMasseVol"
+        android:ems="10"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+    <TextView
+        android:id="@+id/labelGravite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/labelMasseVol"
+        android:layout_alignBaseline="@+id/gravitePOI"
+        android:text="Gravite"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textIsSelectable="true" />
+    
+    <EditText
+        android:id="@+id/gravitePOI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/masseVolPOI"
+        android:layout_toRightOf="@+id/labelGravite"
+        android:ems="10"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+    <Button
+        android:id="@+id/buttonRetour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="19dp"
+        android:onClick="retourActivity"
+        android:text="Retour" />
+
+</RelativeLayout>
